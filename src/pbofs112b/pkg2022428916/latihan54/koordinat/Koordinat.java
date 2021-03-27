@@ -2,7 +2,10 @@ package pbofs112b.pkg2022428916.latihan54.koordinat;
 
 /**
  *
- * @author Kus Andi Priyono
+ * @author 
+ * Nama     : Kus Andi Priyono
+ * Kelas    : FS112B
+ * NIM      : 2022428916
  */
 public class Koordinat {
     protected int x, y;
